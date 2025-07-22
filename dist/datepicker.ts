@@ -1,5 +1,11 @@
-/*! hotel-datepicker 4.12.1 - Copyright 2025 Benito Lopez (http://lopezb.com) - https://github.com/benitolopez/hotel-datepicker - MIT */
-/*! @datadirects/datepicker 0.0.1 - DataDirects modifies this script for their business use. */
+/*
+ * @datadirects/datepicker 0.0.1
+ * This is a custom fork of https://github.com/benitolopez/hotel-datepicker
+ * Customizations have been made to the original library to support Datadirects needs.
+ * Original author: Benito Lopez (http://lopezb.com)
+ * MIT License
+ */
+
 // @ts-nocheck
 /* eslint-disable */
 
