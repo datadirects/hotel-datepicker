@@ -1,0 +1,19 @@
+{
+  "name": "@datadirects/datepicker",
+  "version": "0.0.1",
+  "author": "Anil Unal (DataDirects)",
+  "license": "MIT",
+  "description": "Datepicker for our own needs",
+  "type": "module",
+  "main": "dist/datepicker.js",
+  "style": "dist/datepicker.css",
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "fecha": "^4.2.3"
+  },
+  "browserslist": [
+    "defaults and supports es6-module",
+    "maintained node versions"
+  ]
+}
