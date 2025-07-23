@@ -122,11 +122,6 @@
   line-height: 16px;
 }
 
-.datepicker__month-day:focus {
-  outline: none;
-  background-color: #fff;
-}
-
 .datepicker__month-day--no-checkin {
   position: relative;
 }
